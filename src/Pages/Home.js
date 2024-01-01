@@ -21,6 +21,7 @@ const Home = () => {
             <p className="mx-auto mt-1 max-w-xl sm:text-xl/relaxed">
               I'm a forward-tinking with 1.2 years of experience in Full Stack Web Developement. My key skills include HTML, CSS, Tailwind Css, Material UI, Javascript, React, Redux, Node Js, Express, Mongo DB, Mongoose, MySQL etc.
             </p>
+                {/*
             <div className="mt-8 flex flex-wrap justify-center gap-4">
               <a
                 className="inline-block rounded-full bg-gradient-to-r from-pink-500 via-red-500 to-yellow-500 p-[2px] hover:text-white focus:outline-none focus:ring active:text-opacity-75"
@@ -34,7 +35,7 @@ const Home = () => {
                   Download CV
                 </span>
               </a>
-            </div>
+            </div>*/}
           </div>
         </div>
       </section>
